@@ -13,7 +13,7 @@ First you need a spotify application. If you don't have one, follow this instruc
         - http://localhost:4832/callback/
 - Put your `Client ID` and `Client Secret` in the `config.ini` file
 
-✨ To use the filter make sure the first argument is the **langauge** you want to filter and the second argument is
+✨ To use the filter make sure that the first argument is the **langauge** you want to filter and the second argument is
 the **playlist id/url**
 
 ```shell
