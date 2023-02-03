@@ -3,9 +3,9 @@
 Python application to filter out all the Hebrew songs from your Spotify playlist. You can also filter the rest of the
 songs (English)
 
-# Usage
+# 🏹 Setting Up
 
-First you need a spotify application. If you don't have one, follow this instructions:
+First you need a spotify application. If you don't have one, follow these instructions:
 
 - Create a [Spotify Application](https://developer.spotify.com/dashboard/applications)
     - In `Redirect URIs` add:
@@ -13,6 +13,7 @@ First you need a spotify application. If you don't have one, follow this instruc
         - http://localhost:4832/callback/
 - Put your `Client ID` and `Client Secret` in the `config.ini` file
 
+# 🐉 Usage
 ✨ To use the filter make sure that the first argument is the **langauge** you want to filter and the second argument is
 the **playlist id/url**
 
